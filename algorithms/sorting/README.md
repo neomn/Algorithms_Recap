@@ -1,5 +1,15 @@
 # Sorting Algorithms
 This is a list of common sorting algorithms with a brief description of how they work.
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Merge Sort
+- Quicksort
+- Heapsort
+- Counting Sort
+- Radix Sort
+- Bucket Sort
+- Shellsort
 
 ## Bubble Sort
 Bubble sort repeatedly steps through a list, compares adjacent elements, and swaps them if they are in the wrong order.
