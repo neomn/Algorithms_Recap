@@ -1,7 +1,6 @@
 
-# Data Structure and Algorithm Problems and Solutions
-
-This is a comprehensive list of common data structure and algorithm-related problems along with known algorithms to solve them.
+# a comprehensive list of algorithms related to the coding challenges
+the list is not completed yet, under development
 
 ## Sorting Algorithms
 1. Bubble Sort
