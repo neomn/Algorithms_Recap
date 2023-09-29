@@ -34,7 +34,7 @@ Selection sort finds the minimum element in the unsorted list, swaps it with the
 + Average performance: O(n^2)
 
 ## Merge Sort
-![merge_sort](./assets/merge_sort.gif)
+![merge_sort](./assets/merge_sort.png)
 Merge sort recursively divides a list into sublists until each sublist has 1 element, then merges the sublists back together in sorted order. Uses divide-and-conquer.
 + Worst case performance: O(n log n)
 + Best case performance: O(n log n)
@@ -42,7 +42,26 @@ Merge sort recursively divides a list into sublists until each sublist has 1 ele
 
 ## Quicksort
 ![quick_sort](./assets/quick_sort.gif)
-Quicksort chooses a pivot element and partitions the list into two sublists - elements less than the pivot and elements greater than the pivot. Recursively sorts the sublists.
+
+Quick Sort is a widely used sorting algorithm that follows the divide-and-conquer strategy to sort an array or list of elements.
+1- Choose a Pivot Element: The first step in Quick Sort is to select a pivot element from the array. The pivot element is used as a reference
+    point to partition the array.
+2- Partition the Array: Rearrange the elements in the array such that all elements less than the pivot are on the left side of the pivot,
+    and all elements greater than the pivot are on the right side. The pivot itself is in its final sorted position. 
+    This process is called "partitioning."
+3- Recursively Sort Sub-arrays: After partitioning, you have two sub-arrays: one containing elements less than the pivot and one containing 
+    elements greater than the pivot. Recursively apply the Quick Sort algorithm to these sub-arrays.
+4- Combine Sorted Sub-arrays: Once the sub-arrays are sorted, combine them with the pivot element in the middle to form the final 
+    sorted array. The pivot, by definition, is already in its correct position.
+5- Base Case: The base case of the recursion is when an array contains 0 or 1 element. In such cases, the array is considered sorted, 
+    and no further action is needed.
+6- Repeat: Continue this process of selecting a pivot, partitioning, and sorting sub-arrays recursively until the entire array is sorted.
+    The key to the efficiency of Quick Sort lies in the choice of the pivot and the partitioning process. An efficient choice
+    of pivot (e.g., the middle element or a randomly selected element) can lead to a balanced partition, which ensures good performance in most cases.
+
+    Quick Sort is known for its average-case time complexity of O(n log n), making it one of the fastest general-purpose sorting algorithms. However, 
+    in the worst case (e.g., when the pivot is always the smallest or largest element), it can degrade to O(n^2) time complexity.
+    
 + Worst case performance: O(n^2)
 + Best case performance: O(n log n)
 + Average performance: O(n log n)
