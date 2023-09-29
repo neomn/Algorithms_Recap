@@ -12,8 +12,9 @@ This is a comprehensive list of common data structure and algorithm-related prob
 6. Heap Sort
 7. Radix Sort
 8. Bucket Sort
-9. Counting Sort
-10. Tim Sort
+9. Shell Sort
+10. Counting Sort
+11. Tim Sort
 
 ## Searching Algorithms
 11. Linear Search
