@@ -13,6 +13,7 @@ This is a list of common sorting algorithms with a brief description of how they
 
 ## Bubble Sort
 Bubble sort repeatedly steps through a list, compares adjacent elements, and swaps them if they are in the wrong order.
+![bubble_sort.git](./assets/bubble_sort.gif)
 + Worst case performance: O(n^2)
 + Best case performance: O(n)
 + Average performance: O(n^2)
