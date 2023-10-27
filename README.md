@@ -103,3 +103,6 @@ the list is not completed yet, under development
 79. Majority Element (Boyer-Moore Voting Algorithm)
 80. Hash-based Set and Map (e.g., HashSet, HashMap)
 
+-------------------------------------------------------------
+# algorithms to solve specific problems
+manacher's algorithm : used to find the longest palindromic substring in any given string
