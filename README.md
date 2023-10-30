@@ -105,4 +105,5 @@ the list is not completed yet, under development
 
 -------------------------------------------------------------
 # algorithms to solve specific problems
-manacher's algorithm : used to find the longest palindromic substring in any given string
+1. **Knutt-Morris-Pratt (KMP)** : algorithm is a pattern matching algorithm that improves upon naive pattern matching by utilizing information from previous matches to avoid unnecessary re-comparisons
+1. **manacher's algorithm** : used to find the longest palindromic substring in any given string
