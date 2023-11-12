@@ -25,7 +25,7 @@ the list is not completed yet, under development
 ## Graph Problems
 16. Depth-First Search (DFS)
 17. Breadth-First Search (BFS)
-18. Dijkstra's Algorithm
+18. [Dijkstra's Algorithm](https://github.com/neomn/Algorithms_Recap/blob/main/graphs/README.md#dijkstra)
 19. Bellman-Ford Algorithm
 20. Floyd-Warshall Algorithm
 21. Kruskal's Algorithm (Minimum Spanning Tree)
