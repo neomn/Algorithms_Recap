@@ -3,8 +3,6 @@
 ![graph-types](assets/types-of-graphs.png)
 
 ## Dijkstra
-![dijkstra-2](assets/dijkstra-2.gif)
-
 Dijkstra's algorithm is used to find the shortest path between two nodes in a graph. Some key properties and uses of Dijkstra's algorithm include:
 
 * It is used to find the shortest path from a starting node to all other nodes in a weighted graph. The weights on edges can represent distances, costs, etc.
@@ -14,6 +12,9 @@ Dijkstra's algorithm is used to find the shortest path between two nodes in a gr
 * Maintains a priority queue (often implemented with a min heap) to efficiently find the node with lowest distance at each step.
 * Runs in O(E log V) time, where E is the number of edges and V is the number of vertices/nodes.
 * Key applications include route planning, network routing, and any problem that requires finding shortest paths on a graph.
+  
+  ![dijkstra-2](assets/dijkstra-2.gif)
+  
 ```Python
 import heapq
 
