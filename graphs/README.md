@@ -1,7 +1,10 @@
 # Graphs
+### different types of graphs
+![graph-types](assets/types-of-graphs.png)
 
 ## Dijkstra
-![dijkstra-gif](assets/dijkstra.gif)
+![dijkstra-2](assets/dijkstra-2.gif)
+![dijkstra-gif](assets/dijkstra.gif)  
 
 Dijkstra's algorithm is used to find the shortest path between two nodes in a graph. Some key properties and uses of Dijkstra's algorithm include:
 
