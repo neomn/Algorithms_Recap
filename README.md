@@ -3,17 +3,17 @@
 the list is not completed yet, under development
 
 ## Sorting Algorithms
-1. Bubble Sort
-2. Selection Sort
-3. Insertion Sort
-4. Merge Sort
-5. Quick Sort
-6. Heap Sort
-7. Radix Sort
-8. Bucket Sort
-9. Shell Sort
-10. Counting Sort
-11. Tim Sort
+1. [Bubble Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#bubble-sort)
+1. [Insertion Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#insertion-sort)
+1. [Selection Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#selection-sort)
+1. [Merge Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#merge-sort)
+1. [Quick Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#quicksort)
+1. [Heap Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#heapsort)
+1. [Radix Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#radix-sort)
+1. [Bucket Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#bucket-sort)
+1. [Shell Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#shellsort)
+1. [Counting Sort](https://github.com/neomn/Algorithms_Recap/tree/main/sorting#counting-sort)
+1. [Tim Sort]()
 
 ## Searching Algorithms
 11. Linear Search
